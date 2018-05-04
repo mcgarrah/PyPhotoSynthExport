@@ -25,6 +25,9 @@ Development of code was on Anaconda Python 3.5 on Windows 7.
 - JSON parsing uses the 'dpath' library.
 - Visualization uses the 'VTK' library with Python bindings.
 
+## Extras
+- Video Demo is found at https://youtu.be/WZPtuNnaqVc
+
 ## Project TODO List
 - [x] Submit for class Final Project
 - [x] Published to GitHub
